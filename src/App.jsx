@@ -4,7 +4,7 @@ import Footer from "./component/Footer";
 import Header from "./component/Header";
 import Hero from "./component/Hero";
 import Skills from "./component/Skills";
-import Content from "./component/content";
+import Content from "./component/Content";
 
 function App() {
   return (
